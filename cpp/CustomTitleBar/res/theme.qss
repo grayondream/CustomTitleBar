@@ -1,0 +1,36 @@
+QWidget
+{
+    background-color:#313034;
+    color:#f1f1f1;
+    font-size:12px;
+    border:2px solid #423f48;
+    font: "Tlwg Typo";
+    margin:0px;
+
+}
+
+QMainWindow
+{
+}
+
+QPushButton
+{
+    border:none;
+    width:35px;
+}
+
+QPushButton:hover
+{
+    background-color:#423f48;
+}
+
+QPushButton:pressed
+{
+    background-color:#444444;
+}
+
+QLabel
+{
+    background-color:#2A292B;
+    border:none;
+}
