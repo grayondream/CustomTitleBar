@@ -58,7 +58,7 @@ class TitleBar(QWidget):
         self.win.showMinimized()
 
     def ShowMaximizedWindow(self):
-        self.window.showMaximized()
+        self.win.showMaximized()
 
     def ShowRestoreWindow(self):
         if self.win.isMaximized():
